@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>探索者 ExplorerZH</title>
   
+  <subtitle>永远保持一颗探求的心</subtitle>
+  <link href="https://explorerzh.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://explorerzh.github.io/"/>
   <updated>2023-08-19T12:54:42.758Z</updated>
-  <id>http://example.com/</id>
+  <id>https://explorerzh.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>张晗</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>大家好</title>
-    <link href="http://example.com/2023/08/19/%E5%A4%A7%E5%AE%B6%E5%A5%BD/"/>
-    <id>http://example.com/2023/08/19/%E5%A4%A7%E5%AE%B6%E5%A5%BD/</id>
+    <link href="https://explorerzh.github.io/2023/08/19/%E5%A4%A7%E5%AE%B6%E5%A5%BD/"/>
+    <id>https://explorerzh.github.io/2023/08/19/%E5%A4%A7%E5%AE%B6%E5%A5%BD/</id>
     <published>2023-08-19T12:11:20.000Z</published>
     <updated>2023-08-19T12:54:42.758Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>About hexo instructions</title>
-    <link href="http://example.com/2023/08/14/About%20hexo%20instructions/"/>
-    <id>http://example.com/2023/08/14/About%20hexo%20instructions/</id>
+    <link href="https://explorerzh.github.io/2023/08/14/About%20hexo%20instructions/"/>
+    <id>https://explorerzh.github.io/2023/08/14/About%20hexo%20instructions/</id>
     <published>2023-08-14T10:51:21.915Z</published>
     <updated>2023-08-19T12:56:49.672Z</updated>
     
